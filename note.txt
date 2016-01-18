@@ -1,5 +1,5 @@
 $ 引用列名
-acf() 求自相关系数
+acf() Acf() 求自相关系数
 attach() 连接名字空间
 c() combine?
 candleChart() 做蜡烛图
