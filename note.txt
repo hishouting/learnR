@@ -10,6 +10,7 @@ decompose() 分解为observed,seasonal季节,trend长期,irregular,random随机  循环
 getSymbols() 获取股票数据
 head() 返回头几个数据
 names() 获取列名
+meanf() 均值预测
 monthplot() 按月作图
 plot() 作图 type l 折线，h 直方图，b 连接线，o 圆点折线，空 圆点 xlab x轴标签 ylab y轴标签
 rownames() 获取行名
