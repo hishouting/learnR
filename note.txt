@@ -1,0 +1,24 @@
+$ 引用列名
+acf() 求自相关系数
+attach() 连接名字空间
+c() combine?
+candleChart() 做蜡烛图
+class() 显示数据类型
+data.frame() 制表
+datach() 取消名字空间连接
+decompose() 分解为observed,seasonal季节,trend长期,irregular,random随机  循环
+getSymbols() 获取股票数据
+head() 返回头几个数据
+names() 获取列名
+monthplot() 按月作图
+plot() 作图 type l 折线，h 直方图，b 连接线，o 圆点折线，空 圆点 xlab x轴标签 ylab y轴标签
+rownames() 获取行名
+saveSymbols() 保存数据
+scan() 读取数据
+seasonplot() 按季度作图
+sos  RSiteSearch()  FindFn()
+tail() 返回尾几个数据
+ts() 时间序列数据类型
+
+
+
